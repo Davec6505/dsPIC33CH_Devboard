@@ -1,0 +1,25 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Sunday, May 21, 2023
+Project Path:       C:\Users\Git\dsPIC33CH_Devboard\dsPIC33CH_Devboard.prj
+Design Path:        C:\Users\Git\dsPIC33CH_Devboard\dsPIC33CH_Devboard.pcb
+Design Title:       
+Created:            12/13/2020 9:19:33 PM
+Last Saved:         5/21/2023 8:17:30 AM
+Editing Time:       17519 min
+Units:              mm (precision 2)
+
+
+Checking integrity of Schematic and Pcb designs in project "dsPIC33CH_Devboard"
+===============================================================================
+
+
+Warning: Project has more than one version of Component "08055C103KATDA" ("EthernetENC28J60.sch" & "DC_DC_Converter.sch"). At least one should be reloaded otherwise results may be incorrect.
+Warning: Project has more than one version of Component "R 0.1W SMTF 1.0K" ("EthernetENC28J60.sch" & "DC_DC_Converter.sch"). At least one should be reloaded otherwise results may be incorrect.
+Warning: Net "3.3v" uses different net classes "Power" and "Signal" on different pages.
+Warning: Project has more than one version of Component "TCJA106M016R0200" ("dsPIC33CH128MP502.sch" & "EthernetENC28J60.sch"). At least one should be reloaded otherwise results may be incorrect.
+Warning: Net "3.3v" uses different net classes "Power" and "Signal" on different pages.
+
+
+End Of Report.
