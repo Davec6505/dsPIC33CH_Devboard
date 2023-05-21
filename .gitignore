@@ -1,5 +1,8 @@
 # Prerequisites
 *.d
+*.pdf
+*.txt
+*.htm
 
 # Object files
 *.o
